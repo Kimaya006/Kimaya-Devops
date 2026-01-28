@@ -1,0 +1,2 @@
+Another git file to be fetched.
+Fetching this file.
